@@ -39,6 +39,9 @@ A visual Gantt chart has been created to efficiently track all project phases, t
 
 **Progress Tracking:** Percent completion of each phase
 
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/9edcf1c8-8ee5-466d-a32f-55c32557329d" />
+
+
 
 ## ✅ Conclusion:
 The Gantt chart provides a comprehensive overview of the Alpha Corporation e-commerce app development project, ensuring all stakeholders remain aligned on timelines and deliverables. By outlining clear dependencies, milestones, and real-time progress indicators, it supports proactive project management and minimizes risks of delays. With this structured approach, Alpha Corporation is well-positioned to achieve a successful product launch by Feb 5, 2025
